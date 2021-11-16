@@ -1,8 +1,6 @@
-ansible==latest
-ansible-core==latest
-boto==latest
-boto3==latest
-botocore==latest
+boto>=2.49.0
+boto3>=1.15.0
+botocore>=1.18.0
 cffi==latest
 cryptography==latest
 Jinja2==latest
